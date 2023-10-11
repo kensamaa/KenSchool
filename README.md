@@ -51,4 +51,7 @@ npm i @prisma/client
 # run this after adding the prisma schema
 npx prisma generate
 npx prisma db push //to push to planetscale
+
+# to see data with prisma
+npx prisma studio
 ```
