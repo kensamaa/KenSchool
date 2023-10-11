@@ -44,6 +44,7 @@ npm i next-themes
 npx shadcn-ui@latest init
 npx shadcn-ui@latest add form
 npx shadcn-ui@latest add input
+npx shadcn-ui@latest add textarea
 npm i axios
 npm i react-hot-toast
 npm i @prisma/client
